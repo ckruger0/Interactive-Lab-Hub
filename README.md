@@ -2,4 +2,4 @@
 
 Completed Labs for Chris Kruger
 
-1. Placeholder
+1. [Lab 1: Blink!](https://github.com/ckruger0/IDD-Fa18-Lab1)
