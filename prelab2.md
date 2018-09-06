@@ -1,11 +1,9 @@
-# Interactive-Lab-Hub
+# preLab 02: Digital Timer
 
-CS 5424 Classwork by **Chris Kruger - crk78**
+## Timer Ideas
 
-## Lab Prep
-
-preLab 02. [Digital Timer]()
-
-## Completed Labs
-
-Lab 1. [Blink!](https://github.com/ckruger0/IDD-Fa18-Lab1)
+<img src="https://i.imgur.com/no12uId.jpg"><BR><BR>
+<img src="https://i.imgur.com/sCL37Yb.jpg"><BR><BR>
+<img src="https://i.imgur.com/fSZrpgC.jpg">
+  
+  
