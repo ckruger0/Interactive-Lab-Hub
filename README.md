@@ -4,7 +4,7 @@ CS 5424 Classwork by **Chris Kruger - crk78**
 
 ## Lab Submissions
 
-Lab 1. [Blink!](https://github.com/ckruger0/IDD-Fa18-Lab1)
+Lab 1. [Blink!](https://github.com/ckruger0/IDD-Fa18-Lab1) <BR>
 Lab 2. [Digital Timer](https://github.com/ckruger0/IDD-Fa18-Lab2)
 
 ## Lab Prep Submissions
