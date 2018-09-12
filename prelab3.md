@@ -1,5 +1,7 @@
 # preLab 03: Data Logger
 
+Prepared by Chris Kruger - crk78
+
 ## Soldered Components
 
 <img src="https://i.imgur.com/Oxu4xKr.jpg">
