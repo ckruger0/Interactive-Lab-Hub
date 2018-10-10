@@ -15,4 +15,5 @@ Lab 5. [Useless Box](https://github.com/ckruger0/IDD-Fa18-Lab5)
 preLab 02. [Digital Timer](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab2.md)<BR>
 preLab 03. [Data Logger](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab3.md)<BR>
 preLab 04. [Paper Puppets](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab4.md)<BR>
-preLab 05. [Useless Box](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab5.md)
+preLab 05. [Useless Box](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab5.md)<BR>
+preLab 05. [Chatbot](https://github.com/ckruger0/Interactive-Lab-Hub/blob/master/prelab6.md)
