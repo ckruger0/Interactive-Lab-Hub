@@ -7,7 +7,8 @@ CS 5424 Classwork by **Chris Kruger - crk78**
 Lab 1. [Blink!](https://github.com/ckruger0/IDD-Fa18-Lab1) <BR>
 Lab 2. [Digital Timer](https://github.com/ckruger0/IDD-Fa18-Lab2)<BR>
 Lab 3. [Data Logger](https://github.com/ckruger0/IDD-Fa18-Lab3)<BR>
-Lab 4. [Paper Puppets](https://github.com/ckruger0/IDD-Fa18-Lab4)
+Lab 4. [Paper Puppets](https://github.com/ckruger0/IDD-Fa18-Lab4)<BR>
+Lab 5. [Useless Box](https://github.com/ckruger0/IDD-Fa18-Lab5)
 
 ## Lab Prep Submissions
 
