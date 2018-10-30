@@ -10,7 +10,8 @@ Lab 3. [Data Logger](https://github.com/ckruger0/IDD-Fa18-Lab3)<BR>
 Lab 4. [Paper Puppets](https://github.com/ckruger0/IDD-Fa18-Lab4)<BR>
 Lab 5. [Useless Box](https://github.com/ckruger0/IDD-Fa18-Lab5)<BR>
 Lab 6. [Chatbot](https://github.com/ckruger0/IDD-Fa18-Lab6)<BR>
-Lab 7. [Video Doorbell](https://github.com/ckruger0/IDD-Fa18-Lab7)
+Lab 7. [Video Doorbell](https://github.com/ckruger0/IDD-Fa18-Lab7)<BR>
+Final Project. [Plant Identifier](https://github.com/ckruger0/IDD-Fa18-Final-Project)
 
 ## Lab Prep Submissions
 
